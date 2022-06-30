@@ -1,0 +1,87 @@
+body {
+    background: rgba(92, 221, 167, 0.637);
+    padding: 10px;
+}
+
+
+
+
+.wholestyle {
+    max-width: 750px;
+    margin: auto;
+    padding-top: 20px;
+}
+.avatar {
+    width: 200px;
+    border-radius: 28px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, .25);
+}
+
+
+.sone {
+   background: #2fc782;
+   margin-bottom: 10px;
+   border-radius: 20px;
+   border: 1px;
+   padding: 15px;
+}
+
+
+.stwo {
+    background: #2fc782;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    border: 1px;
+    padding: 15px;
+}
+
+
+.sthree {
+    background: #2fc782; 
+    margin-bottom: 10px;
+    border-radius: 20px;
+    border: 1px;
+    padding: 15px;
+}
+
+
+.sfour {
+    background: #2fc782;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    border: 1px;
+    padding: 15px;
+}
+
+
+.sfive {
+    background: #2fc782;
+    padding-top: 20px; 
+    margin-bottom: 10px;
+    border-radius: 20px;
+    border: 1px; 
+    padding: 15px;
+}
+
+
+
+
+.ssix {
+    background: #2fc782;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    border: 1px;
+    padding: 15px;
+}
+
+
+
+
+.sseven {
+    background: #2fc782;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    border: 1px;
+    padding: 15px;
+}
+
